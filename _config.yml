@@ -6,7 +6,7 @@
 title: Wonjoon Goo @ UT,Austin
 email: hi.wonjoon@gmail.com
 description: Personal homepage of Wonjoon Goo
-url: www.wonjoon.me # the base hostname & protocol for your site
+url: #the base hostname & protocol for your site
 
 
 #
@@ -36,11 +36,11 @@ owner:
   name: Wonjoon Goo
   avatar: leonids-logo.png
   job: "Ph.D. Student"
-  bio: ""
+  bio: "Hello my friends"
   email: hi.wonjoon@gmail.com
   disqus-shortname:
   twitter: #username
-  facebook: #username
+  facebook: wonjoon.goo #username
   google:
     plus: #username
     analytics:
@@ -48,7 +48,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: hi.wonjoon #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
